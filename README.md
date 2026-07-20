@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ziad 👋
 
-<!--
-**ziad17777/ziad17777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical, polished software with a focus on clean execution, useful systems, and strong presentation.
 
-Here are some ideas to get you started:
+## What I’m working on
+- Building real products and production-style projects
+- Learning and shipping across web, data, and systems workflows
+- Turning ideas into reliable, professional-looking software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **EDUPlan** — a student-focused web platform
+- **real-time-iot-data-pipeline** — an ETL / streaming data pipeline
+- **El-Salam-Hospital-** — a hospital connection website
+- **portfolio** — my personal portfolio site
+
+## Tech I work with
+Python • HTML • CSS • JavaScript • Data pipelines • Web development
+
+## Contact
+- GitHub: [@ziad17777](https://github.com/ziad17777)
+
+---
+
+> “Simple, clean, and built to ship.”
