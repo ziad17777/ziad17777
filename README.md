@@ -1,48 +1,54 @@
 <div align="center">
 
 # Ziad
-### Building polished software, data systems, and production-style web products.
+### Full-stack products, data systems, and polished software that feels real.
 
 <p>
   <a href="https://github.com/ziad17777"><img src="https://img.shields.io/badge/GitHub-ziad17777-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/ziad17777?tab=repositories"><img src="https://img.shields.io/badge/Repos-View%20Work-0A0A0A?style=for-the-badge" alt="Repositories" /></a>
+  <a href="https://github.com/ziad17777?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20My%20Work-0A0A0A?style=for-the-badge" alt="Projects" /></a>
+  <img src="https://img.shields.io/badge/Focus-Shipping%20Clean%20Systems-111827?style=for-the-badge" alt="Focus" />
 </p>
 
 </div>
 
 ---
 
-## About me
-I like building things that feel real: clean interfaces, useful workflows, and systems that can grow beyond a demo. My work spans full-stack product development, data engineering, and practical automation.
+## What I do
+I build product-minded software with a focus on clean execution, strong architecture, and a polished user experience. My work sits at the intersection of full-stack development, data engineering, and practical automation.
 
-## What I build
-- Full-stack education and productivity platforms
+## Core strengths
+- Full-stack web applications
+- Backend APIs and auth flows
 - Real-time and batch data pipelines
-- Service-oriented web apps for real-world use cases
-- Clean portfolio and profile experiences that present work well
+- Product presentation and portfolio quality
 
-## Selected projects
-| Project | What it shows |
-|---|---|
-| **[EDUPlan](https://github.com/ziad17777/EDUPlan)** | Full-stack React + Django platform with JWT auth, file uploads, and chat workflows |
-| **[real-time-iot-data-pipeline](https://github.com/ziad17777/real-time-iot-data-pipeline)** | Python-based ETL + streaming analytics + dashboard architecture |
-| **[El-Salam-Hospital-](https://github.com/ziad17777/El-Salam-Hospital-)** | Lightweight hospital connection website |
-| **[portfolio](https://github.com/ziad17777/portfolio)** | Personal portfolio site |
+## Featured work
+### [EDUPlan](https://github.com/ziad17777/EDUPlan)
+A full-stack education productivity platform with a React frontend and Django REST backend, including JWT auth, file uploads, and chat workflows.
 
-## Tech I work with
-Python • Django • Django REST Framework • React • Vite • JavaScript • HTML • CSS • Tailwind CSS • SQLite / PostgreSQL • ETL • Streaming data • Streamlit • Grafana • Power BI
+### [real-time-iot-data-pipeline](https://github.com/ziad17777/real-time-iot-data-pipeline)
+A data engineering project that simulates IoT sensor data, processes it in batch and streaming modes, and visualizes it on a real-time dashboard.
 
-## Current focus
+### [El-Salam-Hospital-](https://github.com/ziad17777/El-Salam-Hospital-)
+A lightweight website built to help users connect to El Salam Hospital.
+
+### [portfolio](https://github.com/ziad17777/portfolio)
+My personal portfolio site.
+
+## Tech stack
+Python • Django • Django REST Framework • React • Vite • JavaScript • HTML • CSS • Tailwind CSS • SQLite / PostgreSQL • ETL • Kafka • Streamlit • Grafana • Power BI
+
+## Currently focused on
 - Shipping production-style web apps
-- Strengthening backend architecture and API design
-- Building data pipelines with clear end-to-end flow
-- Presenting work with better product polish
+- Building reliable backend APIs
+- Improving data pipeline architecture
+- Presenting projects with better product polish
 
-## Reach me
+## Contact
 - GitHub: [@ziad17777](https://github.com/ziad17777)
 
 <div align="center">
 
-<sub>Simple, clean, and built to ship.</sub>
+<sub>Clean builds. Strong systems. Better presentation.</sub>
 
 </div>
