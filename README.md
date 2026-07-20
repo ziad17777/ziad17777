@@ -1,59 +1,45 @@
-<div align="center">
-
 # Ziad
-### Full-stack engineer • data systems builder • product-minded developer
 
-<p>
-  <a href="https://github.com/ziad17777"><img src="https://img.shields.io/badge/GitHub-ziad17777-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/ziad17777?tab=repositories"><img src="https://img.shields.io/badge/Portfolio%20Repos-View%20Work-0A0A0A?style=for-the-badge" alt="Repositories" /></a>
-  <img src="https://img.shields.io/badge/Focus-Shipping%20High--Quality%20Software-111827?style=for-the-badge" alt="Focus" />
-</p>
+ML engineer / full-stack developer. CS student at Teba University, currently on the Microsoft ML Engineer track through DEPI, prepping for ITI (Data Science + AI/ML).
 
-</div>
+I build systems end to end — RAG pipelines, LLM integration, and the Django/React apps that actually put them in front of users. Also teach programming part-time (Udacity, El Mentor).
+
+[GitHub](https://github.com/ziad17777) · [Repos](https://github.com/ziad17777?tab=repositories)
 
 ---
 
-## About me
-I build software that looks good, works well, and solves real problems. My work spans full-stack web apps, data engineering pipelines, and polished product experiences.
+## Phoenix EduPlan
 
-## What I’m best at
-- Designing and shipping full-stack applications
-- Building APIs, auth flows, and backend systems
-- Creating batch and streaming data pipelines
-- Presenting projects with clean, professional presentation
+Bilingual (Arabic/English) AI study assistant, deployed on Hugging Face Spaces.
 
-## Featured projects
-### [EDUPlan](https://github.com/ziad17777/EDUPlan)
-A full-stack education productivity platform with a React frontend and Django REST backend. It includes JWT auth, file uploads, chat workflows, and a deployment-ready structure.
+- Hybrid retrieval: FAISS (dense) + BM25 (sparse)
+- LLaMA 3.3 70B via Hugging Face Inference API
+- Azure Cognitive Services for TTS and generated video
+- Per-user session isolation, LRU caching, conditional index rebuilds
+- Multi-format document ingestion (PDF and others)
 
-### [real-time-iot-data-pipeline](https://github.com/ziad17777/real-time-iot-data-pipeline)
-A data engineering project that simulates IoT sensor data, processes it in batch and streaming modes, and visualizes live metrics on a dashboard.
+Went through several hardening passes — fixed a shared-globals privacy bug, streaming content-type handling, SSML escaping for Arabic TTS. Known issue: still on the moviepy 1.x API, needs migrating.
 
-### [El-Salam-Hospital-](https://github.com/ziad17777/El-Salam-Hospital-)
-A lightweight website built to help users connect to El Salam Hospital.
+## Other projects
 
-### [portfolio](https://github.com/ziad17777/portfolio)
-My personal portfolio site.
+**[EDUPlan](https://github.com/ziad17777/EDUPlan)** — Full-stack version of the platform. React/Vite + Django REST, JWT auth, file uploads, chat workflows.
 
-## Tech stack
-Python • Django • Django REST Framework • React • Vite • JavaScript • HTML • CSS • Tailwind CSS • SQLite • PostgreSQL • ETL • Kafka • Streamlit • Grafana • Power BI
+**[real-time-iot-data-pipeline](https://github.com/ziad17777/real-time-iot-data-pipeline)** — Simulated IoT sensor data through batch and streaming paths, with a live dashboard.
 
-## Current focus
-- Building cleaner backend architecture
-- Shipping more production-style web apps
-- Strengthening data pipeline design
-- Improving product polish and visual presentation
+**[El-Salam-Hospital-](https://github.com/ziad17777/El-Salam-Hospital-)** — Lightweight site for connecting patients to hospital services.
 
-## Quick facts
-- I like practical, high-signal projects
-- I care about code quality and presentation equally
-- I prefer systems that are simple, scalable, and clear
+**[portfolio](https://github.com/ziad17777/portfolio)** — Personal site.
 
-## Contact
-- GitHub: [@ziad17777](https://github.com/ziad17777)
+## Stack
 
-<div align="center">
+Python, Django, DRF, React, Vite, JavaScript — PostgreSQL, SQLite, Kafka, Streamlit, Grafana, Power BI — PyTorch, Hugging Face, FAISS, Azure ML, Gradio
 
-<sub>Clean builds. Strong systems. Better presentation.</sub>
+Fedora Linux, GNOME, Obsidian, Git
 
-</div>
+## Right now
+
+Working through ITI prep (probability, linear algebra, DSA, SQL), deploying a model end-to-end on Azure ML for DEPI, and cleaning up Phoenix EduPlan's retrieval pipeline.
+
+---
+
+Contact: [github.com/ziad17777](https://github.com/ziad17777)
